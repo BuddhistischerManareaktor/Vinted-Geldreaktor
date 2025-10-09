@@ -1,14 +1,21 @@
-# Vinted Monitor - No Delay (fyndit Public Bot)
+# Vinted Monitor: No Delay (fyndit old Public Bot)
 
 Vinted Monitor is a bot that monitors the Vinted items route for new items and notifies users in real-time. It is designed to work with minimal delay, ensuring that users are always up-to-date with the latest items.
 
 <p align="center">
-  <img src="./doc/bot.gif" alt="Example" style="max-height: 400px; width: auto;">
+  <a href="https://discord.gg/fyndit" target="_blank" rel="noopener noreferrer">
+    <img src="./doc/promo.png" alt="Example" style="max-height: 400px; width: auto;">
+  </a>
 </p>
 
-
 > [!TIP]
-> [Discord Invite](https://discord.gg/fyndit) - Join if you want: simply to use the bot freely (with autobuy, fast-buy and more features). The fastest bot on the market!
+> [Discord Invite](https://discord.gg/fyndit) - Join if you want: simply to use the bot freely (with absolute no delay, autobuy (autocop), fast-buy and more features). The fastest bot on the market!
+
+This bot was once upon a time the bot used by the public discord server [Fyndit](https://discord.gg/fyndit) (which is now using a more advanced version of this bot with more features). I keep the repository public for educational purposes and if you want to try to run it by yourself. I'm not responsible if you use it for bad purposes. I haven't maintained it for a while so it might not work as expected. I mainly now focus on the more advanced and private version of a Vinted bot that can be found by [clicking here](https://discord.gg/fyndit) which has a lot more features and works even faster than this public one could have ever dreamed of.
+
+If you would realistically want to run it yourself as of today you would have a cost of around 100EUR/month for proxies and a VPS if you know what you are doing (if you want to have a good speed and avoid skipping items the most you can). If you don't have the money or the time to maintain it, you can simply use the bot for free on the public discord server that you can access by [clicking here](https://discord.gg/fyndit) or even upgrade by subscribing to the premium features for a minimal cost of 14.90EUR/month that gets you acces to all the premium features such as autobuy (autocop), fast-buy, and more.
+
+If you are a community looking for a bot to run for your members, you can also contact me on Discord (teddy_vltn) or here on Whop https://whop.com/fyndit/community-gold/?utm_source=store_page&funnelId=product_4c2b9270-5780-4f55-9923-50dfb40c1987
 
 ## Table of Contents
 1. [Features](#features)
@@ -19,18 +26,14 @@ Vinted Monitor is a bot that monitors the Vinted items route for new items and n
 
 ## Use the bot for free 
 
-The bot is running for free on a public discord server that you can access if you don't want to painfully try to install the bot that can be found by [clicking here](https://discord.gg/fyndit)
+The bot is running for free on a public discord server that you can access (if you don't want to painfully try to install the bot) that can be found by [clicking here](https://discord.gg/fyndit)
 
-## Features
-
-- **Real-time Monitoring**: Vinted Monitor fetches the latest items from the Vinted items route in real-time. 
-- **Monitoring all countries at once**: Lets you see all items from all country.
-- **Discord Integration**: The bot integrates with Discord and can send notifications to specific channels.
-- **Commands**: The bot supports a variety of commands that allow users to interact with it.
-- **Database Channel/User Management**: The bot can manage channels and users in a database, allowing for easy management of notifications.
-- **Language Support**: The bot will communicate with users in their set Discord language. (If available, you can add your own translations in the `locales` folder.)
+It has also much more features than this free old public bot, such as autobuy (autocop), fast-buy, and minimal cost for the premium features. Already more than 2000 users are using it why not you?
 
 ## Requirements
+
+> [!NOTE]
+> The following bot might not work as expected since I haven't maintained it for a while. If you want a more up-to-date version of this bot with automated features for Vinted the bot that can be found by [clicking here](https://discord.gg/fyndit)
 
 - VPS running on a Linux kernel or you own computer (avoid Windows if possible)
 - Rotating proxy
