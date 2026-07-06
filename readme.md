@@ -1,9 +1,9 @@
-# Vinted Monitor: No Delay (fyndit old Public Bot)
+# Vinted Monitor: No Delay https://www.fyndit.app
 
 Vinted Monitor is a bot that monitors the Vinted items route for new items and notifies users in real-time. It is designed to work with minimal delay, ensuring that users are always up-to-date with the latest items.
 
 <p align="center">
-  <a href="https://discord.gg/fyndit" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.fyndit.app" target="_blank" rel="noopener noreferrer">
     <img src="./doc/promo.png" alt="Example" style="max-height: 400px; width: auto;">
   </a>
 </p>
@@ -33,7 +33,7 @@ It has also much more features than this free old public bot, such as autobuy (a
 ## Requirements
 
 > [!NOTE]
-> The following bot might not work as expected since I haven't maintained it for a while. If you want a more up-to-date version of this bot with automated features for Vinted the bot that can be found by [clicking here](https://discord.gg/fyndit)
+> The following bot might not work as expected since I haven't maintained it for a while. If you want a more up-to-date version of this bot with automated features for Vinted the bot that can be found by [clicking here](https://www.fyndit.app)
 
 - VPS running on a Linux kernel or you own computer (avoid Windows if possible)
 - Rotating proxy
