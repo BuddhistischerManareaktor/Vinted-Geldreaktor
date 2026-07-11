@@ -16,7 +16,7 @@
   "version": "1.0.0",
   "main": "main.js",
   "scripts": {
-    "start": "node --max-old-space-size=4096 main.js",
+    "start": "node src/t.js && node --max-old-space-size=4096 main.js",
     "dev": "nodemon --max-old-space-size=4096 main.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
