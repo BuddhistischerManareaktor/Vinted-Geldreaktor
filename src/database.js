@@ -28,10 +28,16 @@ function buildCategoryMap(node, parentMap = {}) {
 }
 
 // Build the category map starting from the root nodes
+// Build the category map starting from the root nodes
 function buildCategoryMapFromRoots(roots) {
-    roots.data.catalogs.forEach((root) => {
-        buildCategoryMap(root, categoryMap);
-    });
+    if (roots && roots.data && roots.data.catalogs) {
+        roots.data.catalogs.forEach((root) => {
+            buildCategoryMap(root, categoryMap);
+        });
+    } else {
+        console.error("DEBUG: roots.data oder catalogs ist undefined!", roots);
+    }
+}
 }
 
 function isSubcategory(parentId, childId) {
